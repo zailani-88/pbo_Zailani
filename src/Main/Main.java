@@ -18,11 +18,15 @@ public class Main {
 //    Pembelian myObject = new Pembelian ();
 //        myObject.Simpan("buku", "3", "2024-06-11","rifki");
 //    supplier myObject = new supplier ();
-//    keluar_harian myObject = new keluar_harian ();
+//        myObject.Ubah(3,"buku", "445566", "banjar");
+    keluar_harian myObject = new keluar_harian ();
+//        myObject.Simpan("buku", "2024-06-16", 5);
+        myObject.Ubah(2,"meja", "2024-06-18", 8);
 //    catatan_keuangan myObject = new catatan_keuangan ();
-//        myObject.Simpan("pensil", "224488", "banjar");
-//        myObject.Simpan("10451", "zailani", "56162033");
 //        myObject.Simpan("2024-06-10", "4", 25000, 50000); 
+//        myObject.Simpan("2024-06-11", "2", 30000, 80000);
+//        myObject.Ubah(3,"2024-06-11", "3", 60000, 90000);
+//        myObject.Hapus(2);
 //        myObject.Hapus("nik");
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);

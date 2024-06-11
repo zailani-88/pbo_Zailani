@@ -77,4 +77,5 @@ public class Koneksi {
             System.out.println("Koneksi ke database belum diinisialisasi.");
         }
     }
+    
 }
